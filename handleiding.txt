@@ -1,2 +1,0 @@
-Unzip events.zip to somewhere temporary and then just 
-setup.py install
