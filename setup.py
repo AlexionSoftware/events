@@ -12,7 +12,7 @@ setup (
   author_email = "tim.golden@iname.com",
   url = "http://tgolden.sc.sabren.com/python/events.html",
   license = "http://www.python.org/psf/license.html",
-  packages = ["events"],
+  py_modules = ["events"],
   classifiers = [
     'Development Status :: 5 - Production/Stable',
     'Environment :: Win32 (MS Windows)',
